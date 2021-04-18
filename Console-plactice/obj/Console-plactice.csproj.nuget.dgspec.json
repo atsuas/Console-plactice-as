@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Console-plactice/Console-plactice/Console-plactice.csproj": {}
+    "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Conso-as/Console-plactice/Console-plactice.csproj": {}
   },
   "projects": {
-    "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Console-plactice/Console-plactice/Console-plactice.csproj": {
+    "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Conso-as/Console-plactice/Console-plactice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Console-plactice/Console-plactice/Console-plactice.csproj",
+        "projectUniqueName": "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Conso-as/Console-plactice/Console-plactice.csproj",
         "projectName": "Console-plactice",
-        "projectPath": "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Console-plactice/Console-plactice/Console-plactice.csproj",
+        "projectPath": "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Conso-as/Console-plactice/Console-plactice.csproj",
         "packagesPath": "/Users/kinoshitaatsushi/.nuget/packages/",
-        "outputPath": "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Console-plactice/Console-plactice/obj/",
+        "outputPath": "/Users/kinoshitaatsushi/Desktop/C#フォルダ/Conso-as/Console-plactice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kinoshitaatsushi/.config/NuGet/NuGet.Config"

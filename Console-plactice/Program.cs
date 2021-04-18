@@ -6,7 +6,7 @@ namespace Console_plactice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("aaaaaaaaa");
         }
     }
 }
