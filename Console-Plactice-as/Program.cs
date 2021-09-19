@@ -6,7 +6,7 @@ namespace Console_Plactice_as
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
         }
     }
 }
